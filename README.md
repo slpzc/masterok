@@ -1,5 +1,5 @@
 # masterok
-
+### Some writing errors were made as part of the shortened deadlines for completing the task and writing the solution
 ## Project setup
 ```
 npm install
@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+###
